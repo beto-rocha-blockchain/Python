@@ -1,5 +1,5 @@
 from task.operations import adicionar_tarefa, remover_tarefa, concluir_tarefa
-from database.db import ler_tarefas_do_arquivo
+from database.db import ler_tarefas_do_arquivo, escrever_tarefas_no_arquivo
 from task.display import exibir_tarefas
 
 
@@ -30,6 +30,7 @@ def menu():
             concluir_tarefa(tarefas)
         elif opcao == "5":
             print("\n>>>Saindo do programa<<<\n")
+            escrever_tarefas_no_arquivo(caminho_do_arquivo, tarefas)
             break
         else:
             print("\nOpção inválida")
