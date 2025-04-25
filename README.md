@@ -11,8 +11,13 @@ A [NearX]([https://nearx.com.br/](https://nearx.com.br/custom-plans?gad_source=1
 A organização dos arquivos segue a progressão do curso:
 
 Python1: Iniciação à linguagem Python
+
 Python2: Funções
+
 Python3: Coleções
+
 Python4: Arquivos e módulos
+
 Python5: Orientação à objetos
+
 Python: Python na prática
