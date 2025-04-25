@@ -17,4 +17,4 @@ A organização dos arquivos segue a progressão do curso:
 - **Python3:** Coleções  
 - **Python4:** Arquivos e módulos  
 - **Python5:** Orientação para objetos  
-- **Python:** Python na prática
+- **Python6:** Python na prática
